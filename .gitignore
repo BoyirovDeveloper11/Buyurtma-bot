@@ -1,0 +1,7 @@
+leads.sqlite
+self-test.sqlite
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

@@ -1,0 +1,2 @@
+# Faqat Python standard library ishlatiladi.
+# Railway Python runtime uchun bo'sh file kerak.
